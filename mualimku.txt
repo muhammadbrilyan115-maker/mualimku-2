@@ -4,3 +4,7 @@ belajar github
 - semangatt kita lulus bareng ya 
 - semoga baik-baik aja 
 - alhamdulillah sehat
+
+rencana konten :
+- js : ES6, framework js
+
